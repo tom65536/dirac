@@ -140,7 +140,7 @@ Enhancement suggestions are tracked as [GitHub issues](https://github.com/tom655
 * Make sure all pre-commit hooks succeed before you commit
 * Apply [Conventional Commits Format (1.0.0)](https://www.conventionalcommits.org/en/v1.0.0/#specification)
   as we would like to exploit commit messages for
-   [Semantic Release](https://github.com/semantic-release/semantic-release) workflow.
+  [Semantic Release](https://github.com/semantic-release/semantic-release) workflow.
 
 A commit message should therefore have the following
 [Angular Commit Format](https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-format):
