@@ -6,6 +6,17 @@ plugins {
     id("hep.dirac.java-library-conventions")
 }
 
+tasks.compileJava {
+  var gid = file(layout.buildDirectory.dir("gen/innclude"))
+  options.compilerArgs = listOf("-h", gid.toString())
+
+  doFirst {
+        // make sure that directory exists
+        gid.mkdirs()
+    }
+}
+
+
 dependencies {
     api(project(":model"))
 }
