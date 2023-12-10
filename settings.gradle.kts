@@ -5,4 +5,4 @@ plugins {
 }
 
 rootProject.name = "dirac"
-include("app", "impl", "model")
+// include("app", "impl", "model")
