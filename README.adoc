@@ -1,0 +1,23 @@
+== dirac (WIP)
+
+https://www.repostatus.org/#concept[image:https://www.repostatus.org/badges/latest/concept.svg[Project
+Status: Concept – Minimal or no implementation has been done yet&#44; or the
+repository is only intended to be a limited example&#44; demo&#44; or
+proof-of-concept.]]
+https://github.com/semantic-release/semantic-release[image:https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg[semantic-release]]
+https://github.com/pre-commit/pre-commit[image:https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit[pre-commit]]
+https://conventionalcommits.org[image:https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg?style=flat-square[Conventional
+Commits]]
+
+=== Synopsis
+
+Dual Integrands for Radiative Amplitude Corrections
+
+=== Prerequisite
+
+=== Build
+
+=== Credits
+
+* https://github.com/hackergrrl/art-of-readme/blob/master/README.md[The
+Art of README]
